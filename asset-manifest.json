@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.b087449a.chunk.css",
-    "main.js": "/portfolio-website/static/js/main.013668a4.chunk.js",
-    "main.js.map": "/portfolio-website/static/js/main.013668a4.chunk.js.map",
+    "main.css": "/portfolio-website/static/css/main.410cc2a3.chunk.css",
+    "main.js": "/portfolio-website/static/js/main.f1e79152.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.f1e79152.chunk.js.map",
     "runtime-main.js": "/portfolio-website/static/js/runtime-main.2bb51218.js",
     "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.2bb51218.js.map",
     "static/css/2.ef9168ec.chunk.css": "/portfolio-website/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.965a7885.chunk.js": "/portfolio-website/static/js/2.965a7885.chunk.js",
-    "static/js/2.965a7885.chunk.js.map": "/portfolio-website/static/js/2.965a7885.chunk.js.map",
+    "static/js/2.ff04db7d.chunk.js": "/portfolio-website/static/js/2.ff04db7d.chunk.js",
+    "static/js/2.ff04db7d.chunk.js.map": "/portfolio-website/static/js/2.ff04db7d.chunk.js.map",
     "static/js/3.27dfd85c.chunk.js": "/portfolio-website/static/js/3.27dfd85c.chunk.js",
     "static/js/3.27dfd85c.chunk.js.map": "/portfolio-website/static/js/3.27dfd85c.chunk.js.map",
     "index.html": "/portfolio-website/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/portfolio-website/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.b087449a.chunk.css.map": "/portfolio-website/static/css/main.b087449a.chunk.css.map",
-    "static/js/2.965a7885.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.965a7885.chunk.js.LICENSE.txt",
+    "static/css/main.410cc2a3.chunk.css.map": "/portfolio-website/static/css/main.410cc2a3.chunk.css.map",
+    "static/js/2.ff04db7d.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.ff04db7d.chunk.js.LICENSE.txt",
     "static/media/CV2021.6bb6e473.pdf": "/portfolio-website/static/media/CV2021.6bb6e473.pdf",
     "static/media/avfoundation.4e69832e.png": "/portfolio-website/static/media/avfoundation.4e69832e.png",
     "static/media/badmintech-mockup.756eeac2.png": "/portfolio-website/static/media/badmintech-mockup.756eeac2.png",
@@ -21,17 +21,18 @@
     "static/media/healthkit.d758b4ea.png": "/portfolio-website/static/media/healthkit.d758b4ea.png",
     "static/media/homeplan-mockup.f847537e.png": "/portfolio-website/static/media/homeplan-mockup.f847537e.png",
     "static/media/jaret-mockup.6fd1ca89.png": "/portfolio-website/static/media/jaret-mockup.6fd1ca89.png",
-    "static/media/laravel.ac8f414d.png": "/portfolio-website/static/media/laravel.ac8f414d.png",
     "static/media/nutrition-tracker-mockup.fe013c5f.png": "/portfolio-website/static/media/nutrition-tracker-mockup.fe013c5f.png",
     "static/media/postgresql.89683b29.png": "/portfolio-website/static/media/postgresql.89683b29.png",
+    "static/media/reactjs.38b292e8.png": "/portfolio-website/static/media/reactjs.38b292e8.png",
     "static/media/spritekit.e04c6545.png": "/portfolio-website/static/media/spritekit.e04c6545.png",
-    "static/media/watchkit.7d7441e3.png": "/portfolio-website/static/media/watchkit.7d7441e3.png"
+    "static/media/watchkit.7d7441e3.png": "/portfolio-website/static/media/watchkit.7d7441e3.png",
+    "static/media/xcode.eaf03658.png": "/portfolio-website/static/media/xcode.eaf03658.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2bb51218.js",
     "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.965a7885.chunk.js",
-    "static/css/main.b087449a.chunk.css",
-    "static/js/main.013668a4.chunk.js"
+    "static/js/2.ff04db7d.chunk.js",
+    "static/css/main.410cc2a3.chunk.css",
+    "static/js/main.f1e79152.chunk.js"
   ]
 }
