@@ -37,13 +37,17 @@ function navbar() {
               </Link>
             </Switch>
             <li class="nav-item active horizontal-margin-30">
-              <a className="nav-link active hover-nav-item" aria-current="page">
+              <a
+                className="nav-link active hover-nav-item"
+                aria-current="page"
+                href="http://localhost:3000/portfolio-website/#portfolio"
+              >
                 Portfolio <span class="sr-only">(current)</span>
               </a>
             </li>
             <Switch>
               <Link
-                to="/skills"
+                to="/portfolio-website/skills"
                 style={{
                   textDecoration: "none",
                 }}

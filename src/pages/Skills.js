@@ -2,8 +2,8 @@ import React from "react";
 
 function Skills() {
   return (
-    <div>
-      <h1>Skills</h1>
+    <div className="portfolio-page column-center-horizontally" id="portfolio">
+      <h1 className="portfolio-title">Skills</h1>
     </div>
   );
 }

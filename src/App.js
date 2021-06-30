@@ -13,11 +13,11 @@ function App() {
       <Router>
         <Navbar />
 
-        <Route path="/">
+        <Route path="/" exact>
           <HomePage />
           <Portfolio />
         </Route>
-        <Route path="/skills" exact>
+        <Route path="/portfolio-website/skills" exact>
           <Skills />
         </Route>
       </Router>

@@ -19,7 +19,7 @@ function Mockup() {
       </a>
       <a
         className="bold-text margin-top-10px play-demo"
-        href="#"
+        href="https://bit.ly/3dtA6Ba"
         target="_blank"
       >
         <FontAwesomeIcon icon={["fas", "play"]} className="play-icon" />
@@ -27,7 +27,7 @@ function Mockup() {
       </a>
       <a
         className="bold-text margin-top-10px play-demo"
-        href="#"
+        href="https://bit.ly/3h9hn0h"
         target="_blank"
       >
         <FontAwesomeIcon icon={["fas", "play"]} className="play-icon" />
