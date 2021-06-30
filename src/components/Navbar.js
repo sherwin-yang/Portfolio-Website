@@ -1,8 +1,6 @@
 import React from "react";
 import { Switch, Link } from "react-router-dom";
 
-let portfolio_link = document.URL + "#portfolio";
-
 function navbar() {
   return (
     <div className="position-absolute navbar-component">
@@ -39,11 +37,7 @@ function navbar() {
               </Link>
             </Switch>
             <li class="nav-item active horizontal-margin-30">
-              <a
-                className="nav-link active hover-nav-item"
-                aria-current="page"
-                href={portfolio_link}
-              >
+              <a className="nav-link active hover-nav-item" aria-current="page">
                 Portfolio <span class="sr-only">(current)</span>
               </a>
             </li>
