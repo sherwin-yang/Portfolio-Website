@@ -6,7 +6,10 @@ import NutritionTracker from "../components/Portfolio/NutritionTracker/Nutrition
 
 function Portfolio() {
   return (
-    <div className="portfolio-page column-center-horizontally" id="portfolio">
+    <div
+      className="portfolio-skills-page column-center-horizontally"
+      id="portfolio"
+    >
       <h1 className="portfolio-title" data-aos="fade-down">
         Portfolio
       </h1>

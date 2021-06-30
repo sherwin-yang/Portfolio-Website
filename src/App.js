@@ -13,7 +13,7 @@ function App() {
       <Router>
         <Navbar />
 
-        <Route path="/" exact>
+        <Route path="/portfolio-website" exact>
           <HomePage />
           <Portfolio />
         </Route>

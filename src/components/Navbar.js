@@ -2,6 +2,9 @@ import React from "react";
 import { Switch, Link } from "react-router-dom";
 
 function navbar() {
+  let local_domain = "http://localhost:3000/portfolio-website";
+  let production_domain = "https://sherwin-yang.github.io/portfolio-website";
+
   return (
     <div className="position-absolute navbar-component">
       <nav class="navbar navbar-expand-lg navbar-light">
@@ -21,7 +24,7 @@ function navbar() {
           <ul class="navbar-nav mx-auto">
             <Switch>
               <Link
-                to="/"
+                to="/portfolio-website"
                 style={{
                   textDecoration: "none",
                 }}
@@ -40,7 +43,7 @@ function navbar() {
               <a
                 className="nav-link active hover-nav-item"
                 aria-current="page"
-                href="http://localhost:3000/portfolio-website/#portfolio"
+                href={production_domain + "/#portfolio"}
               >
                 Portfolio <span class="sr-only">(current)</span>
               </a>
