@@ -13,7 +13,7 @@ function Mobile() {
         src={XCodeLogo}
       />
       <ReactTooltip id="xcode-tooltip" place="top" effect="solid">
-        Native iOS App
+        Native iOS Development
       </ReactTooltip>
     </div>
   );

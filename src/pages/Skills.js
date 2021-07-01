@@ -8,7 +8,9 @@ import Other from "../components/Skills/Other";
 function Skills() {
   return (
     <div className="portfolio-skills-page column-center-horizontally">
-      <h1 className="skills-title">Skills</h1>
+      <h1 className="skills-title" data-aos="zoom-in">
+        Skills
+      </h1>
       <div className="skills-content">
         <Mobile />
         <Programming />

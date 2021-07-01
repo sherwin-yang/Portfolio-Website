@@ -159,6 +159,7 @@ Link {
 .resume-button {
   font-weight: bold;
   font-family: "Nunito", sans-serif;
+  font-style: italic;
   background-color: #ffffff;
   border: 1px solid #111111;
   padding: 3px 12px;
@@ -319,7 +320,6 @@ Link {
 }
 
 /* Skills */
-
 .skills-title {
   font-family: "Work Sans", sans-serif;
   border-bottom: 2px solid #111111;
@@ -328,7 +328,7 @@ Link {
 }
 
 .skills-subtitle {
-  font-family: "Nunito", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
   margin-bottom: 15px;
 }
 

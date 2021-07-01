@@ -1,5 +1,5 @@
 import React from "react";
-import GitLogo from "../../assets/postman.png";
+import GitLogo from "../../assets/git.png";
 import MySQLLogo from "../../assets/mysql.png";
 import PostgreSQLLogo from "../../assets/postgresql.png";
 import ReactTooltip from "react-tooltip";
