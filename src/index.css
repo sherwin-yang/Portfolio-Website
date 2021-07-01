@@ -298,6 +298,7 @@ Link {
   height: auto;
   width: 125px;
 }
+
 .play-demo {
   padding: 5px 10px;
   border: 2px solid #047bfe;
@@ -308,11 +309,20 @@ Link {
   margin-right: 5px;
 }
 
+.github-repo {
+  color: #111111;
+}
+
+.github-repo .github-icon {
+  margin-right: 5px;
+}
+
 /* Tech Used */
 .tech-used-logo {
   height: 45px;
   width: auto;
   margin-right: 15px;
+  margin-bottom: 5px;
 }
 
 .tech-used-logo:hover {

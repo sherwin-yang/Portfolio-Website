@@ -14,6 +14,14 @@ function Mockup() {
         <FontAwesomeIcon icon={["fas", "play"]} className="play-icon" />
         demo video
       </a>
+      <a
+        className="bold-text margin-top-10px github-repo"
+        href="https://github.com/sherwin-yang/Food-and-Nutrition-Tracker"
+        target="_blank"
+      >
+        <FontAwesomeIcon icon={["fab", "github"]} className="github-icon" />
+        github repository
+      </a>
     </div>
   );
 }
