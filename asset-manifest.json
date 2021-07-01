@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.058c83c6.chunk.css",
-    "main.js": "/portfolio-website/static/js/main.48a8b8ba.chunk.js",
-    "main.js.map": "/portfolio-website/static/js/main.48a8b8ba.chunk.js.map",
+    "main.css": "/portfolio-website/static/css/main.01159b61.chunk.css",
+    "main.js": "/portfolio-website/static/js/main.ff80c2a5.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.ff80c2a5.chunk.js.map",
     "runtime-main.js": "/portfolio-website/static/js/runtime-main.2bb51218.js",
     "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.2bb51218.js.map",
     "static/css/2.ef9168ec.chunk.css": "/portfolio-website/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.ff04db7d.chunk.js": "/portfolio-website/static/js/2.ff04db7d.chunk.js",
-    "static/js/2.ff04db7d.chunk.js.map": "/portfolio-website/static/js/2.ff04db7d.chunk.js.map",
+    "static/js/2.c6e74b3f.chunk.js": "/portfolio-website/static/js/2.c6e74b3f.chunk.js",
+    "static/js/2.c6e74b3f.chunk.js.map": "/portfolio-website/static/js/2.c6e74b3f.chunk.js.map",
     "static/js/3.27dfd85c.chunk.js": "/portfolio-website/static/js/3.27dfd85c.chunk.js",
     "static/js/3.27dfd85c.chunk.js.map": "/portfolio-website/static/js/3.27dfd85c.chunk.js.map",
     "index.html": "/portfolio-website/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/portfolio-website/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.058c83c6.chunk.css.map": "/portfolio-website/static/css/main.058c83c6.chunk.css.map",
-    "static/js/2.ff04db7d.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.ff04db7d.chunk.js.LICENSE.txt",
+    "static/css/main.01159b61.chunk.css.map": "/portfolio-website/static/css/main.01159b61.chunk.css.map",
+    "static/js/2.c6e74b3f.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.c6e74b3f.chunk.js.LICENSE.txt",
     "static/media/CV2021.2d297a57.pdf": "/portfolio-website/static/media/CV2021.2d297a57.pdf",
     "static/media/avfoundation.4e69832e.png": "/portfolio-website/static/media/avfoundation.4e69832e.png",
     "static/media/badmintech-mockup.756eeac2.png": "/portfolio-website/static/media/badmintech-mockup.756eeac2.png",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.2bb51218.js",
     "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.ff04db7d.chunk.js",
-    "static/css/main.058c83c6.chunk.css",
-    "static/js/main.48a8b8ba.chunk.js"
+    "static/js/2.c6e74b3f.chunk.js",
+    "static/css/main.01159b61.chunk.css",
+    "static/js/main.ff80c2a5.chunk.js"
   ]
 }
