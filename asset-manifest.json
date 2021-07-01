@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.058c83c6.chunk.css",
-    "main.js": "/portfolio-website/static/js/main.8a7fb809.chunk.js",
-    "main.js.map": "/portfolio-website/static/js/main.8a7fb809.chunk.js.map",
+    "main.js": "/portfolio-website/static/js/main.48a8b8ba.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.48a8b8ba.chunk.js.map",
     "runtime-main.js": "/portfolio-website/static/js/runtime-main.2bb51218.js",
     "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.2bb51218.js.map",
     "static/css/2.ef9168ec.chunk.css": "/portfolio-website/static/css/2.ef9168ec.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.ef9168ec.chunk.css.map": "/portfolio-website/static/css/2.ef9168ec.chunk.css.map",
     "static/css/main.058c83c6.chunk.css.map": "/portfolio-website/static/css/main.058c83c6.chunk.css.map",
     "static/js/2.ff04db7d.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.ff04db7d.chunk.js.LICENSE.txt",
-    "static/media/CV2021.6bb6e473.pdf": "/portfolio-website/static/media/CV2021.6bb6e473.pdf",
+    "static/media/CV2021.2d297a57.pdf": "/portfolio-website/static/media/CV2021.2d297a57.pdf",
     "static/media/avfoundation.4e69832e.png": "/portfolio-website/static/media/avfoundation.4e69832e.png",
     "static/media/badmintech-mockup.756eeac2.png": "/portfolio-website/static/media/badmintech-mockup.756eeac2.png",
     "static/media/core-data.9cb38c79.png": "/portfolio-website/static/media/core-data.9cb38c79.png",
@@ -33,6 +33,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.ff04db7d.chunk.js",
     "static/css/main.058c83c6.chunk.css",
-    "static/js/main.8a7fb809.chunk.js"
+    "static/js/main.48a8b8ba.chunk.js"
   ]
 }
