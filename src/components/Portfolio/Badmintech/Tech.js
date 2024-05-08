@@ -12,6 +12,7 @@ function Tech() {
         <p>Technology I Implemented : </p>
         <img
           data-tip
+          alt="UIKit"
           data-for="uikit-tooltip"
           className="tech-used-logo"
           src={UIKitLogo}
@@ -21,6 +22,7 @@ function Tech() {
         </ReactTooltip>
         <img
           data-tip
+          alt="WatchKit"
           data-for="watchkit-tooltip"
           className="tech-used-logo"
           src={WatchKitLogo}
@@ -30,6 +32,7 @@ function Tech() {
         </ReactTooltip>
         <img
           data-tip
+          alt="HealthKit"
           data-for="healthkit-tooltip"
           className="tech-used-logo"
           src={HealthKitLogo}
@@ -39,6 +42,7 @@ function Tech() {
         </ReactTooltip>
         <img
           data-tip
+          alt="AVFoundation"
           data-for="avfoundation-tooltip"
           className="tech-used-logo"
           src={AVFoundationLogo}

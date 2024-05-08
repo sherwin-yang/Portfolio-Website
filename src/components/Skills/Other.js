@@ -10,6 +10,7 @@ function Other() {
       <h5 className="bold-text skills-subtitle">Other Skills : </h5>
       <img
         data-tip
+        alt="Git"
         data-for="git-tooltip"
         className="tech-used-logo"
         src={GitLogo}
@@ -19,6 +20,7 @@ function Other() {
       </ReactTooltip>
       <img
         data-tip
+        alt="MySQL"
         data-for="mysql-tooltip"
         className="tech-used-logo"
         src={MySQLLogo}
@@ -28,6 +30,7 @@ function Other() {
       </ReactTooltip>
       <img
         data-tip
+        alt="PostgreSQL"
         data-for="postgresql-tooltip"
         className="tech-used-logo"
         src={PostgreSQLLogo}

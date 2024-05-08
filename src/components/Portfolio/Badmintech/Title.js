@@ -5,7 +5,7 @@ function Title() {
   return (
     <div className="badmintech">
       <div className="brand-logo row-center-horizontally">
-        <img className="app-img" src={BadmintechLogo} />
+        <img alt="Badmintech" className="app-img" src={BadmintechLogo} />
         <strong>Badmintech</strong>
       </div>
       <div className="description">

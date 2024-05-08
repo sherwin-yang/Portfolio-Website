@@ -16,6 +16,7 @@ function Tech() {
         <p>Technology I Implemented : </p>
         <img
           data-tip
+          alt="UIKit"
           data-for="uikit-tooltip"
           className="tech-used-logo"
           src={UIKitLogo}
@@ -25,6 +26,7 @@ function Tech() {
         </ReactTooltip>
         <img
           data-tip
+          alt="URLSession"
           data-for="urlsession-tooltip"
           className="tech-used-logo"
           src={URLSessionLogo}
@@ -34,6 +36,7 @@ function Tech() {
         </ReactTooltip>
         <img
           data-tip
+          alt="SpriteKit"
           data-for="spritekit-tooltip"
           className="tech-used-logo"
           src={SpriteKit}
@@ -43,6 +46,7 @@ function Tech() {
         </ReactTooltip>
         <img
           data-tip
+          alt="KingFisher"
           data-for="kingfisher-tooltip"
           className="tech-used-logo"
           src={KingFisher}
@@ -52,6 +56,7 @@ function Tech() {
         </ReactTooltip>
         <img
           data-tip
+          alt="Lottie"
           data-for="lottie-tooltip"
           className="tech-used-logo"
           src={LottieFiles}
@@ -62,6 +67,7 @@ function Tech() {
         <br />
         <img
           data-tip
+          alt="Laravel"
           data-for="laravel-tooltip"
           className="tech-used-logo margin-top-10px"
           src={Laravel}
@@ -71,6 +77,7 @@ function Tech() {
         </ReactTooltip>
         <img
           data-tip
+          alt="PostgreSQL"
           data-for="postgresql-tooltip"
           className="tech-used-logo margin-top-10px"
           src={PostgreSQL}
@@ -80,6 +87,7 @@ function Tech() {
         </ReactTooltip>
         <img
           data-tip
+          alt="ImageKit"
           data-for="imagekit-tooltip"
           className="tech-used-logo margin-top-10px"
           src={ImageKit}

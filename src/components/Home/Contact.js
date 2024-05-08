@@ -4,15 +4,12 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Contact() {
   return (
     <div className="row-center-horizontally justify-row-content-center contact-component">
-      {/* <a href="" target="_blank" alt="phone-logo">
-        <FontAwesomeIcon
-          icon={["fas", "phone"]}
-          size="2x"
-          id="phone-logo"
-          className="horizontal-margin-30"
-        />
-      </a> */}
-      <a href="mailto:sher.yang79@gmail.com" target="_blank" alt="google-logo">
+      <a 
+        href="mailto:sher.yang79@gmail.com" 
+        target="_blank" 
+        rel="noreferrer" 
+        alt="google-logo"
+      >
         <FontAwesomeIcon
           icon={["fab", "google"]}
           size="2x"
@@ -23,6 +20,7 @@ function Contact() {
       <a
         href="https://github.com/sherwin-yang"
         target="_blank"
+        rel="noreferrer"
         alt="github-logo"
       >
         <FontAwesomeIcon
@@ -35,6 +33,7 @@ function Contact() {
       <a
         href="https://linkedin.com/in/sherwiny29"
         target="_blank"
+        rel="noreferrer"
         alt="linkedin-logo"
       >
         <FontAwesomeIcon

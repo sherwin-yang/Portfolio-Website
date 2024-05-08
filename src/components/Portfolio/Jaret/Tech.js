@@ -10,6 +10,7 @@ function Tech() {
         <p>Technology I Implemented : </p>
         <img
           data-tip
+          alt="UIKit"
           data-for="uikit-tooltip"
           className="tech-used-logo"
           src={UIKitLogo}
@@ -19,6 +20,7 @@ function Tech() {
         </ReactTooltip>
         <img
           data-tip
+          alt="Core Data"
           data-for="core-data-tooltip"
           className="tech-used-logo"
           src={CoreDataLogo}

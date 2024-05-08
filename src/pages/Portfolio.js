@@ -15,7 +15,6 @@ function Portfolio() {
       </h1>
       <Homeplan />
       <Badmintech />
-      <Jaret />
       <NutritionTracker />
     </div>
   );

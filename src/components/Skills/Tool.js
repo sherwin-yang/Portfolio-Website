@@ -11,6 +11,7 @@ function Tool() {
       <h5 className="bold-text skills-subtitle">Tools : </h5>
       <img
         data-tip
+        alt="Visual Studio Code"
         data-for="vscode-tooltip"
         className="tech-used-logo"
         src={VSCodeLogo}
@@ -20,6 +21,7 @@ function Tool() {
       </ReactTooltip>
       <img
         data-tip
+        alt="Postman"
         data-for="postman-tooltip"
         className="tech-used-logo"
         src={PostmanLogo}
@@ -29,6 +31,7 @@ function Tool() {
       </ReactTooltip>
       <img
         data-tip
+        alt="Sketch"
         data-for="sketch-tooltip"
         className="tech-used-logo"
         src={SketchLogo}
@@ -38,6 +41,7 @@ function Tool() {
       </ReactTooltip>
       <img
         data-tip
+        alt="Figma"
         data-for="figma-tooltip"
         className="tech-used-logo"
         src={FigmaLogo}

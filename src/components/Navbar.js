@@ -2,8 +2,7 @@ import React from "react";
 import { Switch, Link } from "react-router-dom";
 
 function navbar() {
-  let local_domain = "http://localhost:3000/portfolio-website";
-  let production_domain = "https://sherwin-yang.github.io/portfolio-website";
+  let url = "http://" + window.location.host + "/portfolio-website"
 
   return (
     <div className="position-absolute navbar-component">
@@ -30,12 +29,12 @@ function navbar() {
                 }}
               >
                 <li class="nav-item active horizontal-margin-30">
-                  <a
+                  <span
                     className="nav-link active hover-nav-item"
                     aria-current="page"
                   >
                     Home <span class="sr-only">(current)</span>
-                  </a>
+                  </span>
                 </li>
               </Link>
             </Switch>
@@ -43,7 +42,7 @@ function navbar() {
               <a
                 className="nav-link active hover-nav-item"
                 aria-current="page"
-                href={production_domain + "/#portfolio"}
+                href={url + "/#portfolio"}
               >
                 Portfolio <span class="sr-only">(current)</span>
               </a>
@@ -56,12 +55,12 @@ function navbar() {
                 }}
               >
                 <li class="nav-item active horizontal-margin-30">
-                  <a
+                  <span
                     className="nav-link active hover-nav-item"
                     aria-current="page"
                   >
                     Skills <span class="sr-only">(current)</span>
-                  </a>
+                  </span>
                 </li>
               </Link>
             </Switch>

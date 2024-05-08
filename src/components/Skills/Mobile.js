@@ -8,6 +8,7 @@ function Mobile() {
       <h5 className="bold-text skills-subtitle">Mobile : </h5>
       <img
         data-tip
+        alt="XCode"
         data-for="xcode-tooltip"
         className="tech-used-logo"
         src={XCodeLogo}

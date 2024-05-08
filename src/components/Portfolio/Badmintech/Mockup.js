@@ -5,11 +5,12 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Mockup() {
   return (
     <div className="column-center-horizontally">
-      <img className="mockup" src={BadmintechMockup} />
+      <img alt="Badmintech Mockup" className="mockup" src={BadmintechMockup} />
       <a
         className="bold-text margin-top-10px play-demo"
         href="https://bit.ly/3oa2JGI"
         target="_blank"
+        rel="noreferrer"
       >
         <FontAwesomeIcon icon={["fas", "play"]} className="play-icon" />
         demo video
@@ -18,6 +19,7 @@ function Mockup() {
         className="bold-text margin-top-10px github-repo"
         href="https://github.com/sherwin-yang/MC3-17"
         target="_blank"
+        rel="noreferrer"
       >
         <FontAwesomeIcon icon={["fab", "github"]} className="github-icon" />
         github repository

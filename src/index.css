@@ -185,10 +185,6 @@ Link {
   font-size: 18px;
 }
 
-.homeplan-link {
-  color: #54aa77;
-}
-
 /* Contact */
 .contact-component {
   margin-bottom: 25px;
@@ -265,7 +261,8 @@ Link {
   margin-bottom: 30px;
 }
 
-.homeplan .description p {
+.homeplan .description p,
+.homeplan-text-color {
   color: #54aa77;
 }
 

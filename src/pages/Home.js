@@ -12,7 +12,9 @@ function Home() {
       <Resume />
       <AboutMe />
       <Contact />
+      <br></br>
       <ScrollIndicator />
+      <br></br>
     </div>
   );
 }

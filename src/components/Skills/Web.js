@@ -12,6 +12,7 @@ function Web() {
       <h5 className="bold-text skills-subtitle">Web Development : </h5>
       <img
         data-tip
+        alt="HTML"
         data-for="html-tooltip"
         className="tech-used-logo"
         src={HTMLLogo}
@@ -21,6 +22,7 @@ function Web() {
       </ReactTooltip>
       <img
         data-tip
+        alt="CSS"
         data-for="css-tooltip"
         className="tech-used-logo"
         src={CSSLogo}
@@ -30,6 +32,7 @@ function Web() {
       </ReactTooltip>
       <img
         data-tip
+        alt="Laravel"
         data-for="laravel-tooltip"
         className="tech-used-logo"
         src={LaravelLogo}
@@ -39,6 +42,7 @@ function Web() {
       </ReactTooltip>
       <img
         data-tip
+        alt="Bootstrap"
         data-for="bootstrap-tooltip"
         className="tech-used-logo"
         src={BootstrapLogo}
@@ -48,6 +52,7 @@ function Web() {
       </ReactTooltip>
       <img
         data-tip
+        alt="ReactJS"
         data-for="reactjs-tooltip"
         className="tech-used-logo"
         src={ReactJSLogo}

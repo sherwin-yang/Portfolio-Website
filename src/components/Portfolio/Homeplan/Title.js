@@ -5,7 +5,7 @@ function Title() {
   return (
     <div className="homeplan">
       <div className="brand-logo row-center-horizontally">
-        <img className="app-img" src={HomeplanLogo} />
+        <img alt="Homeplan" className="app-img" src={HomeplanLogo} />
         <strong>Homeplan</strong>
       </div>
       <div className="description">

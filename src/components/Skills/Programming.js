@@ -13,6 +13,7 @@ function Programming() {
       <h5 className="bold-text skills-subtitle">Programming Language : </h5>
       <img
         data-tip
+        alt="Swift"
         data-for="swift-tooltip"
         className="tech-used-logo"
         src={SwiftLogo}
@@ -22,6 +23,7 @@ function Programming() {
       </ReactTooltip>
       <img
         data-tip
+        alt="Java"
         data-for="java-tooltip"
         className="tech-used-logo"
         src={JavaLogo}
@@ -31,6 +33,7 @@ function Programming() {
       </ReactTooltip>
       <img
         data-tip
+        alt="PHP"
         data-for="php-tooltip"
         className="tech-used-logo"
         src={PHPLogo}
@@ -40,6 +43,7 @@ function Programming() {
       </ReactTooltip>
       <img
         data-tip
+        alt="Javascript"
         data-for="javascript-tooltip"
         className="tech-used-logo"
         src={JavascriptLogo}
@@ -49,6 +53,7 @@ function Programming() {
       </ReactTooltip>
       <img
         data-tip
+        alt="C"
         data-for="c-tooltip"
         className="tech-used-logo"
         src={CLogo}
@@ -58,6 +63,7 @@ function Programming() {
       </ReactTooltip>
       <img
         data-tip
+        alt="C++"
         data-for="c++-tooltip"
         className="tech-used-logo"
         src={CPLogo}
