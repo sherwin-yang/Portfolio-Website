@@ -20,6 +20,7 @@ function Web() {
       <ReactTooltip id="html-tooltip" place="top" effect="solid">
         HTML
       </ReactTooltip>
+
       <img
         data-tip
         alt="CSS"
@@ -30,6 +31,7 @@ function Web() {
       <ReactTooltip id="css-tooltip" place="top" effect="solid">
         CSS
       </ReactTooltip>
+
       <img
         data-tip
         alt="Laravel"
@@ -40,6 +42,7 @@ function Web() {
       <ReactTooltip id="laravel-tooltip" place="top" effect="solid">
         Laravel
       </ReactTooltip>
+
       <img
         data-tip
         alt="Bootstrap"
@@ -50,6 +53,7 @@ function Web() {
       <ReactTooltip id="bootstrap-tooltip" place="top" effect="solid">
         Bootstrap
       </ReactTooltip>
+      
       <img
         data-tip
         alt="ReactJS"

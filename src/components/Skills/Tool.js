@@ -1,5 +1,6 @@
 import React from "react";
 import VSCodeLogo from "../../assets/vscode.png";
+import FirebaseLogo from "../../assets/firebase.png";
 import PostmanLogo from "../../assets/postman.png";
 import SketchLogo from "../../assets/sketch.png";
 import FigmaLogo from "../../assets/figma.png";
@@ -19,6 +20,18 @@ function Tool() {
       <ReactTooltip id="vscode-tooltip" place="top" effect="solid">
         Visual Studio Code
       </ReactTooltip>
+
+      <img
+        data-tip
+        alt="Firebase"
+        data-for="firebase-tooltip"
+        className="tech-used-logo"
+        src={FirebaseLogo}
+      />
+      <ReactTooltip id="postman-tooltip" place="top" effect="solid">
+        Firebase
+      </ReactTooltip>
+
       <img
         data-tip
         alt="Postman"
@@ -29,16 +42,7 @@ function Tool() {
       <ReactTooltip id="postman-tooltip" place="top" effect="solid">
         Postman
       </ReactTooltip>
-      <img
-        data-tip
-        alt="Sketch"
-        data-for="sketch-tooltip"
-        className="tech-used-logo"
-        src={SketchLogo}
-      />
-      <ReactTooltip id="sketch-tooltip" place="top" effect="solid">
-        Sketch
-      </ReactTooltip>
+
       <img
         data-tip
         alt="Figma"
@@ -48,6 +52,17 @@ function Tool() {
       />
       <ReactTooltip id="figma-tooltip" place="top" effect="solid">
         Figma
+      </ReactTooltip>
+
+      <img
+        data-tip
+        alt="Sketch"
+        data-for="sketch-tooltip"
+        className="tech-used-logo"
+        src={SketchLogo}
+      />
+      <ReactTooltip id="sketch-tooltip" place="top" effect="solid">
+        Sketch
       </ReactTooltip>
     </div>
   );

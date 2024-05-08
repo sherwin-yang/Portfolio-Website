@@ -21,16 +21,7 @@ function Programming() {
       <ReactTooltip id="swift-tooltip" place="top" effect="solid">
         Swift
       </ReactTooltip>
-      <img
-        data-tip
-        alt="Java"
-        data-for="java-tooltip"
-        className="tech-used-logo"
-        src={JavaLogo}
-      />
-      <ReactTooltip id="java-tooltip" place="top" effect="solid">
-        Java
-      </ReactTooltip>
+
       <img
         data-tip
         alt="PHP"
@@ -41,6 +32,7 @@ function Programming() {
       <ReactTooltip id="php-tooltip" place="top" effect="solid">
         PHP
       </ReactTooltip>
+
       <img
         data-tip
         alt="Javascript"
@@ -51,6 +43,18 @@ function Programming() {
       <ReactTooltip id="javascript-tooltip" place="top" effect="solid">
         Javascript
       </ReactTooltip>
+      
+      <img
+        data-tip
+        alt="Java"
+        data-for="java-tooltip"
+        className="tech-used-logo"
+        src={JavaLogo}
+      />
+      <ReactTooltip id="java-tooltip" place="top" effect="solid">
+        Java
+      </ReactTooltip>
+
       <img
         data-tip
         alt="C"
@@ -61,6 +65,7 @@ function Programming() {
       <ReactTooltip id="c-tooltip" place="top" effect="solid">
         C
       </ReactTooltip>
+
       <img
         data-tip
         alt="C++"
