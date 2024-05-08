@@ -10,11 +10,9 @@ function Learned() {
           conflict
         </li>
         <li>Integrate the iOS and watchOS app</li>
-        <li>Implement HealthKit framework for heart rate detection</li>
-        <li>
-          Utilize AVFoundation framework to embed audiovisual asset (video)
-        </li>
-        <li>Use MVC design pattern</li>
+        <li>Use HealthKit for heart rate detection</li>
+        <li>Use AVFoundation to play video asset </li>
+        <li>Use MVC architecture</li>
       </ul>
     </div>
   );

@@ -8,7 +8,7 @@ function Title() {
       </div>
       <div className="description">
         <p className="bold-text">
-          An app I developed individually for myself to count how many calories,
+          App I developed to help me count how many calories, 
           carbohydrates, protein, and fat of foods I eat everyday.
         </p>
       </div>

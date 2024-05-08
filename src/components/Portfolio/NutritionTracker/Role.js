@@ -6,7 +6,7 @@ function Role() {
       <div className="portfolio-subtitle">
         <p>My Role : </p>
         <div>
-          <p>Develop the whole app.</p>
+          <p>I am the solo developer.</p>
         </div>
       </div>
     </div>

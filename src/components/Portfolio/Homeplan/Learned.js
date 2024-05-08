@@ -5,19 +5,14 @@ function Learned() {
     <div className="portfolio-subtitle">
       <p>What I Learned (as iOS Developer) : </p>
       <ul>
-        <li>Implement MVVM design pattern</li>
-        <li>Implement delegate and notification pattern</li>
-        <li>Apply UIScrollView</li>
-        <li>
-          Connect the iOS app to back-end server trough API using URLSession
-        </li>
-        <li>Programmatic UI</li>
-        {/* <li>Save user settings in User Defaults</li> */}
+        <li>Implement MVVM architecture</li>
+        <li>Make API call using URLSession </li>
+        <li>Implement delegate and notification design pattern</li>
         <li>
           Implement SpriteKit framework for the 2D floorplan canvas design tool.{" "}
           <span className="grey-text">(feature deprecated)</span>
         </li>
-        <li>Apply external libraries using cocoapods dependency manager</li>
+        <li>Integrate 3rd party libraries using Cocoapods as depedency manager</li>
         <li>Using different schemes for production and development</li>
         <li>Upload project to TestFlight for internal testing</li>
         <li>Record events for analytics (Mixpanel)</li>

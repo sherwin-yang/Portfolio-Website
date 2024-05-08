@@ -11,7 +11,9 @@ function Title() {
       <div className="description">
         <p className="bold-text">
           App to helps you simplify your home renovation by getting design
-          inpiration, budget estimation, and consult with professionals
+          inpiration, consult with professionals, and get budget estimation.
+          <span> </span>
+          <span className="grey-text">(App is no longer available in App Store)</span>
         </p>
       </div>
     </div>

@@ -7,18 +7,17 @@ function Role() {
         <p>My Role : </p>
         <div>
           <p>
-            I work in a scrum team consist of 6-7 people as iOS Developer and
+            I work in a scrum team consist of 6-7 people as iOS Developer and 
             Back-end Engineer(in a couple months). As the iOS Developer, I
-            control the git flow and resolve git conflict of the iOS app and
             collaborate closely with designers in making design desicion. I also
             setup the back-end server using LEPP(Linux, NGINX, PostgreSQL, PHP)
             stack.
-            <br />
-            Since version 2.0 (iOS), I build the majority of Homeplan's feature.
           </p>
           <p>
+            Start from version 2.0, I built the majority of Homeplan's iOS App.
+            <br />
             With other co-founders we continuously iterate and improve Homeplan
-            in achieving product market fit{" "}
+            in achieving product market fit.
           </p>
         </div>
       </div>

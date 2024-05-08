@@ -5,11 +5,10 @@ function Learned() {
     <div className="portfolio-subtitle">
       <p>What I Learned (as iOS Developer) : </p>
       <ul>
-        <li>Implement UITableView</li>
+        <li>UIKit: UITableView, UILabel, UIButton, UITextField, UISegmentedControl, etc.</li>
         <li>Implement Tab Bar Controller</li>
         <li>Apply Core Data to save user input locally</li>
-        <li>Utilize UILabel, UIButton, UITextField, UISegmentedControl</li>
-        <li>Use MVC design pattern</li>
+        <li>Use MVC architecture</li>
       </ul>
     </div>
   );

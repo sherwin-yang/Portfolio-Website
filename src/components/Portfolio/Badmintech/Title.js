@@ -10,13 +10,12 @@ function Title() {
       </div>
       <div className="description">
         <p className="bold-text">
-          App to helps badminton player to train their basic badminton skills
-          (shots, serves, grip, footworks, and positioning).
+          App to helps badminton players to train their basic badminton skills. 
+          <span> </span>
           <span className="grey-text">
-            Currently developed for Lob Shot only using machine learning
-            prediction by sending gyroscope and accelerometer motion datas
-            (using Core Motion) from Apple Watch to tell which shots are good or
-            bad.
+            Has developed for Lob Shot only using machine learning prediction 
+            by sending gyroscope and accelerometer motion datas (using Core Motion) 
+            from Apple Watch to tell which shots are good or bad.
           </span>
         </p>
       </div>
