@@ -10,7 +10,7 @@ function Home() {
     <div className="home-page">
       <Name />
       <Resume />
-      {/* <AboutMe /> */}
+      <AboutMe />
       <Contact />
       <br></br>
       <ScrollIndicator />
