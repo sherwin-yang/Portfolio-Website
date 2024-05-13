@@ -1,5 +1,5 @@
 import React from "react";
-import ResumeFile from "../../assets/CV/CV2021.pdf";
+import ResumeFile from "../../assets/CV/CV2024.pdf";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function Resume() {

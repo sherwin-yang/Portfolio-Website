@@ -28,7 +28,7 @@ function Tool() {
         className="tech-used-logo"
         src={FirebaseLogo}
       />
-      <ReactTooltip id="postman-tooltip" place="top" effect="solid">
+      <ReactTooltip id="firebase-tooltip" place="top" effect="solid">
         Firebase
       </ReactTooltip>
 
