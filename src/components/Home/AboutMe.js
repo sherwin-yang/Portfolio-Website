@@ -6,8 +6,8 @@ function AboutMe() {
       <div className="about-me-component">
         <p className="about-me-title">Hi, welcome! 👋🏻</p>
         <p>
-          I am an iOS Developer with 2+ years experience in the industry working professionally at 
-          the #1 OTT platform in Indonesia. Studied Computer Science in BINUS University Jakarta 
+          I am an iOS Developer with 2+ years of professional working experience at the 
+          #1 OTT platform in Indonesia. Studied Computer Science in BINUS University Jakarta 
           from September 2017 and eligible for my Bachelor degree in March 2021.
         </p>
         <p>
